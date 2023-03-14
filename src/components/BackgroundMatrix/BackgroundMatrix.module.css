@@ -1,0 +1,28 @@
+@font-face {
+	/* https://www.dafont.com/matrix-code-nfi.font */
+	font-family: 'Matrix';
+	src: url('../../fonts/matrix code nfi.ttf');
+}
+
+.background {
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #000000;
+}
+
+.stream {
+	display: block;
+	user-select: none;
+	font-family: 'Matrix', sans-serif;
+	font-size: 50px;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	white-space: nowrap;
+	color: #20c20e;
+	text-shadow: 0 0 8px rgba(32, 194, 14, 0.8);
+}
