@@ -1,0 +1,24 @@
+#cc_div {
+	--cc-text: #222222;
+	--cc-block-text: #222222;
+
+	--cc-btn-primary-bg: #20c20e;
+	--cc-btn-primary-hover-bg: #1CAD0C;
+
+	--cc-btn-secondary-bg: #d9f7be;
+	--cc-btn-secondary-text: #222222;
+	--cc-btn-secondary-hover-bg: #b7eb8f;
+
+	--cc-btn-border-radius: 10px;
+
+	--cc-toggle-bg-off: #222222;
+	--cc-toggle-bg-on: #20c20e;
+
+	--cc-cookie-category-block-bg: #f6ffed;
+	--cc-cookie-category-block-bg-hover: #b7eb8f;
+}
+
+#s-c-bn {
+	--cc-btn-secondary-bg: #eaeff2;
+	--cc-btn-secondary-hover-bg: #d8e0e6;
+}
