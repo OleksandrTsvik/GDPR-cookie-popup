@@ -1,7 +1,7 @@
 import BackgroundMatrix from './components/BackgroundMatrix';
+import CookieConsent from './components/CookieConsent';
 
 import './App.css';
-import CookieConsent from './components/CookieConsent';
 
 export default function App() {
 	return (

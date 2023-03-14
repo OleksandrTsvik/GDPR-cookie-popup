@@ -4,7 +4,7 @@ import StreamMatrix from './StreamMatrix';
 import styles from './BackgroundMatrix.module.css';
 
 export default function BackgroundMatrix() {
-	const countStreamMatrix = Math.floor(window.innerHeight / FONT_WIDTH);
+	const countStreamMatrix = Math.floor(window.innerWidth / FONT_WIDTH);
 
 	return (
 		<div className={styles.background}>
